@@ -1,0 +1,59 @@
+body > * {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#twitter-widget-1{
+    display: block !important;
+    height:1010px !important;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   }
+
+#navbar a {
+    
+    color:#E91E63;
+
+      }
+
+ li {
+ 	display: inline;
+    border: 3px solid #555;
+    border-color: #E91E63;
+    background-color: #f1f1f1;
+ }
+
+h1 {
+    text-align: center;
+    color:#E91E63;
+    font-family: 'Dancing Script', cursive;
+    font-size:40px;
+}
+
+h2 {
+    text-align: center;
+    color:#E91E63;
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+    font-style: italic;
+}
+
+nav {
+    text-align: center;
+    color:#E91E63;
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+
+}
+
+body {
+    background-image: url("background2.jpeg");
+}
+
+
+
